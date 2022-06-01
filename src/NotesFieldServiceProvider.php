@@ -6,7 +6,7 @@ use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
-use OptimistDigital\NovaTranslationsLoader\LoadsNovaTranslations;
+use Outl1ne\NovaTranslationsLoader\LoadsNovaTranslations;
 
 class NotesFieldServiceProvider extends ServiceProvider
 {
